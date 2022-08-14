@@ -1,3 +1,1 @@
-Hello GIT 
-Add coisas para mostrar 
-+++
+Hello GIT
